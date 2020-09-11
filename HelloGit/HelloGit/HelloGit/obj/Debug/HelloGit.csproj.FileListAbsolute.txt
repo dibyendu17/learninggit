@@ -1,0 +1,6 @@
+D:\Practice\learninggit\HelloGit\HelloGit\HelloGit\bin\Debug\HelloGit.exe.config
+D:\Practice\learninggit\HelloGit\HelloGit\HelloGit\bin\Debug\HelloGit.exe
+D:\Practice\learninggit\HelloGit\HelloGit\HelloGit\bin\Debug\HelloGit.pdb
+D:\Practice\learninggit\HelloGit\HelloGit\HelloGit\obj\Debug\HelloGit.csprojAssemblyReference.cache
+D:\Practice\learninggit\HelloGit\HelloGit\HelloGit\obj\Debug\HelloGit.exe
+D:\Practice\learninggit\HelloGit\HelloGit\HelloGit\obj\Debug\HelloGit.pdb
