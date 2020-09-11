@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 this is all KINDA OK
-=======
 this is all Right
->>>>>>> newfeature
 
 new testing here
