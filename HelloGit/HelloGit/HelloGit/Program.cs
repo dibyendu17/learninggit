@@ -12,6 +12,7 @@ namespace HelloGit
         {
             Console.WriteLine("Hello Git");
             Console.WriteLine("Continue working in the master");
+            Console.WriteLine("Added new feature");
             Console.ReadLine();
         }
     }
